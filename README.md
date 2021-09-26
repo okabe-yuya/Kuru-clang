@@ -11,3 +11,7 @@
 - `home/src`にホスティングしたファイルがあることを確認
 - `gcc **/*.c`を実行してファイルをコンパイル
 - `./*`を実行して動作確認
+
+## Envrioment
+- M1 Macbook Air(2020)
+- macOS Big Sur
